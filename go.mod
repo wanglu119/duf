@@ -1,4 +1,4 @@
-module github.com/muesli/duf
+module github.com/wanglu119/duf
 
 go 1.17
 
