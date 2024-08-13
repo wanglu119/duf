@@ -1,7 +1,7 @@
 //go:build darwin
 // +build darwin
 
-package main
+package duf_api
 
 func isFuseFs(m Mount) bool {
 	//FIXME: implement

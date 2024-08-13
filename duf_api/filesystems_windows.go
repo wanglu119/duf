@@ -1,7 +1,7 @@
 //go:build windows
 // +build windows
 
-package main
+package duf_api
 
 import (
 	"golang.org/x/sys/windows/registry"

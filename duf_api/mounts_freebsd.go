@@ -1,7 +1,7 @@
 //go:build freebsd
 // +build freebsd
 
-package main
+package duf_api
 
 import (
 	"golang.org/x/sys/unix"

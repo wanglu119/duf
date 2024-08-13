@@ -1,7 +1,7 @@
 //go:build freebsd
 // +build freebsd
 
-package main
+package duf_api
 
 func isFuseFs(m Mount) bool {
 	//FIXME: implement

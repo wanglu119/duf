@@ -1,7 +1,7 @@
 //go:build openbsd
 // +build openbsd
 
-package main
+package duf_api
 
 import (
 	"golang.org/x/sys/unix"

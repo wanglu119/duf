@@ -25,4 +25,3 @@ func DiskMountInfo() ([]Mount, error) {
 	}
 	return m, err
 }
-
